@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>wr-desktop-tool</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.python.pydev.PyDevBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.python.pydev.pythonNature</nature>
+	</natures>
+	<variableList>
+		<variable>
+			<name>IMAGES_LOC</name>
+			<value>file:/home/jlgutierrez/wr/wr-desktop-manager/wr-desktop-tool/img</value>
+		</variable>
+		<variable>
+			<name>PYTHONSRC_LOC</name>
+			<value>file:/home/jlgutierrez/wr/wr-desktop-manager/wr-desktop-tool/python</value>
+		</variable>
+		<variable>
+			<name>QT_GUIS_LOC</name>
+			<value>file:/home/jlgutierrez/wr/wr-desktop-manager/wr-desktop-tool/qt_guis</value>
+		</variable>
+	</variableList>
+</projectDescription>
